@@ -1,0 +1,317 @@
+﻿Timestamp,Martial Status,Studying in,"1.Feeling nervous, anxious, or on edge",‎2.Not being able to stop or control worrying,‎3. Worrying too much about different things,4. Trouble relaxing,‎5. Being so restless that it is hard to sit still,6.Becoming easily annoyed or irritable,"‎7.Feeling afraid, as if something awful
+might happen",‎1.Little interest or pleasure in doing things ,"‎2. Feeling down, depressed, or hopeless","3.Trouble falling or staying asleep, or sleeping too much ",‎4.Feeling tired or having little energy ,5.Poor appetite or overeating,"‎6.Feeling bad about yourself — or that you are a failure or
+have let yourself or your family down","‎7.Trouble concentrating on things, such as reading the
+newspaper or watching television ","‎8.Moving or speaking so slowly that other people could have
+noticed? Or the opposite — being so fidgety or restless
+that you have been moving around a lot more than usua","‎9.Thoughts that you would be better off dead or of hurting
+yourself in some way",GAD-7 Score,PHQ-9 Test,GAD Result,PHQ Result
+3/8/2024 23:00:14,Unmarried,Undergraduate ,1,2,1,1,0,1,2,3,0,2,2,1,0,2,0,3,8,13,Mild Anxiety,Moderate depression
+3/8/2024 23:31:23,Unmarried,Undergraduate ,1,1,1,1,0,1,2,1,2,0,3,0,2,3,2,1,7,14,Mild Anxiety,Moderate depression
+3/8/2024 23:57:01,Unmarried,Undergraduate ,1,2,1,2,1,0,0,2,2,1,2,1,2,1,0,3,7,14,Mild Anxiety,Moderate depression
+3/9/2024 0:03:18,Married,Postgraduate,3,1,3,3,1,1,3,3,2,3,3,3,3,2,1,1,15,21,Severe Anxiety,Severe depression
+3/9/2024 0:43:22,Married,Undergraduate ,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,2,2,Minimal Anxiety,Minimal depression
+3/9/2024 2:02:02,Unmarried,Undergraduate ,1,1,0,1,0,0,1,1,1,0,1,1,1,3,0,0,4,8,Minimal Anxiety,Mild depression
+3/9/2024 2:06:35,Unmarried,Undergraduate ,1,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,6,1,Mild Anxiety,Minimal depression
+3/9/2024 2:08:07,Married,Undergraduate ,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,3,1,Minimal Anxiety,Minimal depression
+3/9/2024 2:09:37,Married,Undergraduate ,0,0,1,1,0,1,0,1,0,1,1,0,0,0,0,0,3,3,Minimal Anxiety,Minimal depression
+3/9/2024 2:13:27,Married,Undergraduate ,1,0,1,2,0,1,1,2,0,2,0,1,0,0,0,0,6,5,Mild Anxiety,Mild depression
+3/9/2024 2:14:05,Married,Undergraduate ,1,2,1,1,1,1,1,2,1,2,2,2,1,2,2,0,8,14,Mild Anxiety,Moderate depression
+3/9/2024 2:18:15,Unmarried,Undergraduate ,1,0,0,0,0,0,0,2,0,1,2,0,0,2,0,0,1,7,Minimal Anxiety,Mild depression
+3/9/2024 2:20:17,Married,Undergraduate ,3,1,1,1,1,1,1,2,2,2,3,2,0,2,0,2,9,15,Mild Anxiety,Moderately severe depression
+3/9/2024 2:26:41,Married,Undergraduate ,2,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,4,3,Minimal Anxiety,Minimal depression
+3/9/2024 2:29:16,Married,Postgraduate,1,1,1,1,0,2,0,3,2,0,1,0,0,1,1,0,6,8,Mild Anxiety,Mild depression
+3/9/2024 2:31:57,Unmarried,Undergraduate ,1,1,3,0,0,1,0,1,0,2,1,0,0,1,0,0,6,5,Mild Anxiety,Mild depression
+3/9/2024 2:32:33,Married,Undergraduate ,1,1,1,1,1,1,1,3,2,2,2,3,1,0,0,0,7,13,Mild Anxiety,Moderate depression
+3/9/2024 2:34:52,Married,Undergraduate ,1,1,0,1,0,1,1,1,1,3,2,2,0,0,1,0,5,10,Mild Anxiety,Moderate depression
+3/9/2024 2:38:26,Married,Undergraduate ,0,0,1,1,0,1,0,1,0,1,1,2,0,1,0,0,3,6,Minimal Anxiety,Mild depression
+3/9/2024 2:39:09,Unmarried,Undergraduate ,2,1,3,1,1,3,1,1,1,3,2,2,1,1,1,0,12,12,Moderate Anxiety,Moderate depression
+3/9/2024 2:44:03,Married,Undergraduate ,1,2,2,2,1,1,1,0,2,2,2,0,0,2,0,0,10,8,Moderate Anxiety,Mild depression
+3/9/2024 2:48:30,Married,Undergraduate ,2,1,1,0,0,1,0,2,2,0,1,0,0,0,0,0,5,5,Mild Anxiety,Mild depression
+3/9/2024 2:56:06,Unmarried,Undergraduate ,1,1,1,1,1,1,1,1,2,0,0,0,0,0,0,0,7,3,Mild Anxiety,Minimal depression
+3/9/2024 2:57:26,Married,Undergraduate ,3,2,2,3,2,2,2,2,2,3,0,1,0,2,2,0,16,12,Severe Anxiety,Moderate depression
+3/9/2024 3:05:23,Married,Undergraduate ,1,0,1,1,0,2,0,1,1,0,0,0,0,1,1,0,5,4,Mild Anxiety,Minimal depression
+3/9/2024 3:18:33,Married,Undergraduate ,1,1,0,0,0,1,0,0,0,1,1,3,0,1,0,0,3,6,Minimal Anxiety,Mild depression
+3/9/2024 3:29:30,Married,Undergraduate ,1,2,2,1,0,1,1,2,2,3,3,2,0,0,1,1,8,14,Mild Anxiety,Moderate depression
+3/9/2024 4:56:59,Unmarried,Undergraduate ,1,1,0,1,0,2,1,2,1,1,1,2,1,1,1,0,6,10,Mild Anxiety,Moderate depression
+3/9/2024 5:03:05,Married,Undergraduate ,1,0,0,1,0,1,1,1,2,2,2,2,0,0,0,0,4,9,Minimal Anxiety,Mild depression
+3/9/2024 5:04:03,Married,Postgraduate,2,2,2,2,2,1,2,2,1,3,3,3,1,2,2,1,13,18,Moderate Anxiety,Moderately severe depression
+3/9/2024 5:24:28,Married,Undergraduate ,1,1,1,1,1,1,1,2,2,2,2,2,1,1,2,0,7,14,Mild Anxiety,Moderate depression
+3/9/2024 6:02:31,Married,Undergraduate ,1,0,0,0,0,1,0,1,0,0,2,0,0,0,0,0,2,3,Minimal Anxiety,Minimal depression
+3/9/2024 6:38:55,Married,Undergraduate ,1,2,1,1,0,1,0,3,0,2,1,2,0,0,0,0,6,8,Mild Anxiety,Mild depression
+3/9/2024 6:45:37,Unmarried,Postgraduate,1,1,1,1,1,1,1,1,1,2,2,0,2,2,2,1,7,13,Mild Anxiety,Moderate depression
+3/9/2024 7:07:07,Married,Undergraduate ,2,0,1,2,0,1,0,1,1,0,2,1,0,1,0,0,6,6,Mild Anxiety,Mild depression
+3/9/2024 7:10:38,Married,Undergraduate ,1,1,0,1,0,1,1,0,0,2,2,0,0,0,0,0,5,4,Mild Anxiety,Minimal depression
+3/9/2024 7:12:33,Married,Undergraduate ,1,0,1,1,1,1,0,0,0,0,0,0,0,2,2,0,5,4,Mild Anxiety,Minimal depression
+3/9/2024 7:34:09,Unmarried,Undergraduate ,1,0,1,0,0,0,0,1,1,0,2,0,0,2,0,1,2,7,Minimal Anxiety,Mild depression
+3/9/2024 7:38:18,Unmarried,Undergraduate ,1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,3,3,Minimal Anxiety,Minimal depression
+3/9/2024 8:02:47,Married,Undergraduate ,1,1,1,2,0,1,0,0,0,0,2,2,1,2,0,0,6,7,Mild Anxiety,Mild depression
+3/9/2024 8:40:59,Married,Postgraduate,2,2,2,2,1,2,1,3,3,3,3,2,0,2,1,1,12,18,Moderate Anxiety,Moderately severe depression
+3/9/2024 8:44:10,Married,Undergraduate ,1,1,1,1,0,1,1,1,0,0,2,0,0,1,0,0,6,4,Mild Anxiety,Minimal depression
+3/9/2024 8:56:57,Married,Undergraduate ,2,2,3,3,1,2,0,2,2,3,3,2,0,3,2,0,13,17,Moderate Anxiety,Moderately severe depression
+3/9/2024 9:01:29,Married,Undergraduate ,1,1,1,1,0,1,1,0,0,2,1,0,0,1,0,0,6,4,Mild Anxiety,Minimal depression
+3/9/2024 9:05:48,Married,Undergraduate ,1,1,0,1,1,1,2,2,0,3,1,2,0,0,2,0,7,10,Mild Anxiety,Moderate depression
+3/9/2024 9:13:47,Married,Postgraduate,1,0,1,1,0,1,1,1,0,1,3,1,1,2,1,0,5,10,Mild Anxiety,Moderate depression
+3/9/2024 9:50:08,Unmarried,Postgraduate,1,1,0,3,0,1,0,1,2,0,1,0,1,0,0,0,6,5,Mild Anxiety,Mild depression
+3/9/2024 9:56:43,Unmarried,Postgraduate,2,1,3,3,2,3,3,3,2,2,3,1,3,3,2,0,17,19,Severe Anxiety,Moderately severe depression
+3/9/2024 10:02:00,Married,Undergraduate ,1,0,0,0,0,1,0,2,0,2,2,0,0,2,0,0,2,8,Minimal Anxiety,Mild depression
+3/9/2024 10:02:43,Married,Undergraduate ,1,1,1,1,1,1,1,2,2,2,3,2,0,2,2,3,7,18,Mild Anxiety,Moderately severe depression
+3/9/2024 10:14:22,Unmarried,Undergraduate ,3,0,0,1,1,1,0,2,1,2,2,1,0,1,0,2,6,11,Mild Anxiety,Moderate depression
+3/9/2024 10:18:58,Unmarried,Undergraduate ,1,1,1,1,0,0,1,2,0,1,2,0,1,1,0,0,5,7,Mild Anxiety,Mild depression
+3/9/2024 10:22:42,Unmarried,Undergraduate ,1,1,1,1,1,1,1,0,1,2,2,0,1,2,2,0,7,10,Mild Anxiety,Moderate depression
+3/9/2024 10:25:19,Married,Undergraduate ,0,0,1,0,0,0,0,1,0,0,1,0,2,1,0,0,1,5,Minimal Anxiety,Mild depression
+3/9/2024 10:28:42,Married,Undergraduate ,1,1,1,1,1,1,0,1,1,2,1,2,1,2,2,0,6,12,Mild Anxiety,Moderate depression
+3/9/2024 10:28:42,Married,Undergraduate ,1,1,1,1,0,1,1,2,2,2,1,0,0,0,0,0,6,7,Mild Anxiety,Mild depression
+3/9/2024 10:33:49,Married,Undergraduate ,1,0,0,0,0,0,0,3,1,0,2,1,1,1,0,0,1,9,Minimal Anxiety,Mild depression
+3/9/2024 10:35:30,Married,Undergraduate ,1,1,1,0,1,0,1,2,1,1,1,0,2,1,0,0,5,8,Mild Anxiety,Mild depression
+3/9/2024 10:37:05,Married,Undergraduate ,1,1,0,0,0,1,0,1,0,2,2,2,0,1,0,0,3,8,Minimal Anxiety,Mild depression
+3/9/2024 10:47:20,Married,Undergraduate ,1,0,1,1,0,1,0,1,0,1,2,0,0,2,0,0,4,6,Minimal Anxiety,Mild depression
+3/9/2024 10:48:37,Unmarried,Undergraduate ,2,1,3,0,1,2,0,2,2,2,3,1,0,1,0,0,9,11,Mild Anxiety,Moderate depression
+3/9/2024 10:52:50,Married,Undergraduate ,3,1,1,1,0,3,1,0,0,2,0,0,0,0,0,0,10,2,Moderate Anxiety,Minimal depression
+3/9/2024 10:59:06,Married,Undergraduate ,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,0,5,5,Mild Anxiety,Mild depression
+3/9/2024 11:01:39,Married,Undergraduate ,1,1,0,3,0,1,1,2,0,0,0,0,0,0,0,0,7,2,Mild Anxiety,Minimal depression
+3/9/2024 11:03:31,Married,Postgraduate,3,0,1,0,0,1,0,0,0,0,2,0,0,0,0,0,5,2,Mild Anxiety,Minimal depression
+3/9/2024 11:05:10,Married,Postgraduate,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Minimal Anxiety,Minimal depression
+3/9/2024 11:07:23,Married,Postgraduate,1,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,2,4,Minimal Anxiety,Minimal depression
+3/9/2024 11:08:34,Married,Undergraduate ,0,1,0,0,0,0,0,2,0,0,1,0,0,1,0,0,1,4,Minimal Anxiety,Minimal depression
+3/9/2024 11:08:55,Married,Undergraduate ,2,1,1,1,1,1,0,1,1,0,1,1,0,0,0,0,7,4,Mild Anxiety,Minimal depression
+3/9/2024 11:11:36,Married,Postgraduate,2,3,3,3,3,2,2,3,2,2,3,2,2,3,2,2,18,21,Severe Anxiety,Severe depression
+3/9/2024 11:14:04,Married,Undergraduate ,1,1,1,1,1,1,3,3,3,0,1,3,0,3,2,0,9,15,Mild Anxiety,Moderately severe depression
+3/9/2024 11:15:54,Unmarried,Undergraduate ,2,1,1,1,1,3,3,3,3,3,3,3,3,3,3,2,12,26,Moderate Anxiety,Severe depression
+3/9/2024 11:15:59,Unmarried,Undergraduate ,0,0,0,1,0,1,0,2,2,1,2,1,1,1,1,1,2,12,Minimal Anxiety,Moderate depression
+3/9/2024 11:16:06,Unmarried,Undergraduate ,1,1,1,1,1,2,2,3,1,0,2,1,2,3,1,0,9,13,Mild Anxiety,Moderate depression
+3/9/2024 11:17:25,Unmarried,Postgraduate,2,2,1,1,1,1,2,1,3,1,2,0,3,3,2,2,10,17,Moderate Anxiety,Moderately severe depression
+3/9/2024 11:17:31,Unmarried,Undergraduate ,2,1,2,1,1,3,3,2,1,1,2,1,0,2,0,2,13,11,Moderate Anxiety,Moderate depression
+3/9/2024 11:18:50,Unmarried,Undergraduate ,1,1,1,0,2,1,1,1,0,1,0,2,0,3,0,0,7,7,Mild Anxiety,Mild depression
+3/9/2024 11:18:54,Married,Undergraduate ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,7,8,Mild Anxiety,Mild depression
+3/9/2024 11:19:28,Unmarried,Undergraduate ,3,3,3,2,1,1,1,3,3,1,3,2,3,3,3,2,14,23,Moderate Anxiety,Severe depression
+3/9/2024 11:20:52,Unmarried,Undergraduate ,1,0,0,0,0,0,0,2,3,3,3,2,1,3,0,2,1,19,Minimal Anxiety,Moderately severe depression
+3/9/2024 11:23:18,Unmarried,Undergraduate ,1,1,1,2,2,1,2,1,1,0,1,2,1,1,1,1,10,9,Moderate Anxiety,Mild depression
+3/9/2024 11:24:39,Married,Undergraduate ,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,3,2,Minimal Anxiety,Minimal depression
+3/9/2024 11:25:25,Married,Undergraduate ,1,2,0,0,0,1,1,2,1,0,1,0,1,3,0,0,5,8,Mild Anxiety,Mild depression
+3/9/2024 11:26:15,Unmarried,Undergraduate ,1,1,1,1,0,1,1,2,0,0,1,2,0,0,0,0,6,5,Mild Anxiety,Mild depression
+3/9/2024 11:27:03,Unmarried,Undergraduate ,1,1,0,0,0,0,0,1,0,0,1,0,0,2,0,0,2,4,Minimal Anxiety,Minimal depression
+3/9/2024 11:27:04,Unmarried,Undergraduate ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,7,8,Mild Anxiety,Mild depression
+3/9/2024 11:28:37,Married,Postgraduate,1,1,0,0,0,3,0,3,2,1,1,0,1,3,0,0,5,11,Mild Anxiety,Moderate depression
+3/9/2024 11:30:00,Unmarried,Undergraduate ,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,2,7,13,Mild Anxiety,Moderate depression
+3/9/2024 11:30:12,Married,Undergraduate ,2,1,1,3,1,3,0,2,1,3,2,2,0,2,0,0,11,12,Moderate Anxiety,Moderate depression
+3/9/2024 11:31:20,Unmarried,Postgraduate,1,0,0,0,0,1,0,1,1,2,2,0,0,2,0,0,2,8,Minimal Anxiety,Mild depression
+3/9/2024 11:33:43,Unmarried,Undergraduate ,2,1,0,1,0,2,1,0,1,2,1,0,0,2,1,0,7,7,Mild Anxiety,Mild depression
+3/9/2024 11:35:08,Married,Undergraduate ,1,1,0,0,0,1,0,1,0,0,2,3,0,0,0,0,3,6,Minimal Anxiety,Mild depression
+3/9/2024 11:35:36,Unmarried,Undergraduate ,1,1,1,1,0,1,1,3,3,2,3,2,2,3,2,2,6,22,Mild Anxiety,Severe depression
+3/9/2024 11:37:19,Unmarried,Undergraduate ,3,3,3,2,3,2,2,3,3,1,1,0,3,3,3,3,18,20,Severe Anxiety,Severe depression
+3/9/2024 11:39:13,Married,Undergraduate ,1,2,2,1,1,1,2,2,3,2,3,2,3,3,3,2,10,23,Moderate Anxiety,Severe depression
+3/9/2024 11:40:07,Unmarried,Undergraduate ,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,3,Minimal Anxiety,Minimal depression
+3/9/2024 11:41:02,Unmarried,Undergraduate ,1,1,1,1,0,1,1,2,3,2,3,1,1,3,1,2,6,18,Mild Anxiety,Moderately severe depression
+3/9/2024 11:42:14,Unmarried,Undergraduate ,1,0,1,1,1,2,0,3,3,1,3,3,3,3,3,2,6,24,Mild Anxiety,Severe depression
+3/9/2024 11:43:03,Unmarried,Undergraduate ,1,0,0,1,0,1,0,1,0,0,0,1,1,1,1,1,3,6,Minimal Anxiety,Mild depression
+3/9/2024 11:43:45,Unmarried,Undergraduate ,1,0,1,1,0,1,1,0,1,0,1,1,0,2,0,2,5,7,Mild Anxiety,Mild depression
+3/9/2024 11:44:21,Unmarried,Undergraduate ,1,1,1,1,1,0,0,0,0,0,1,0,0,2,1,0,5,4,Mild Anxiety,Minimal depression
+3/9/2024 11:44:43,Married,Undergraduate ,1,2,2,3,1,1,2,1,1,1,1,3,2,2,1,0,12,12,Moderate Anxiety,Moderate depression
+3/9/2024 11:45:35,Unmarried,Postgraduate,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,3,Minimal Anxiety,Minimal depression
+3/9/2024 11:47:04,Unmarried,Undergraduate ,1,2,3,1,0,1,1,1,3,0,3,1,2,3,2,0,9,15,Mild Anxiety,Moderately severe depression
+3/9/2024 11:49:42,Unmarried,Undergraduate ,1,2,2,1,1,0,1,2,1,2,1,1,1,3,1,1,8,13,Mild Anxiety,Moderate depression
+3/9/2024 11:50:48,Unmarried,Undergraduate ,3,1,1,2,1,3,2,3,2,2,2,0,0,1,1,0,13,11,Moderate Anxiety,Moderate depression
+3/9/2024 11:51:50,Unmarried,Undergraduate ,3,3,3,3,3,3,3,1,1,3,2,3,3,3,3,0,21,19,Severe Anxiety,Moderately severe depression
+3/9/2024 11:56:53,Married,Undergraduate ,1,0,0,1,0,1,1,1,1,2,0,0,0,0,0,0,4,4,Minimal Anxiety,Minimal depression
+3/9/2024 12:00:14,Unmarried,Undergraduate ,1,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,6,2,Mild Anxiety,Minimal depression
+3/9/2024 12:00:43,Unmarried,Undergraduate ,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,Minimal Anxiety,Minimal depression
+3/9/2024 12:02:05,Unmarried,Undergraduate ,1,1,1,1,0,2,0,1,0,0,2,1,1,3,0,0,6,8,Mild Anxiety,Mild depression
+3/9/2024 12:03:58,Unmarried,Undergraduate ,1,2,3,2,1,2,1,2,1,1,2,2,1,2,2,3,12,16,Moderate Anxiety,Moderately severe depression
+3/9/2024 12:04:25,Unmarried,Undergraduate ,2,1,2,2,2,2,1,2,3,1,3,1,3,3,0,2,12,18,Moderate Anxiety,Moderately severe depression
+3/9/2024 12:05:10,Unmarried,Undergraduate ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,1,21,24,Severe Anxiety,Severe depression
+3/9/2024 12:05:38,Married,Postgraduate,2,2,1,1,1,2,1,1,1,1,2,1,0,3,1,0,10,10,Moderate Anxiety,Moderate depression
+3/9/2024 12:07:25,Unmarried,Undergraduate ,3,2,3,2,1,3,2,3,2,1,2,3,2,1,2,1,16,17,Severe Anxiety,Moderately severe depression
+3/9/2024 12:07:50,Unmarried,Undergraduate ,1,2,2,1,1,1,2,2,1,2,1,2,3,1,1,0,10,13,Moderate Anxiety,Moderate depression
+3/9/2024 12:08:25,Married,Undergraduate ,1,1,1,1,0,1,1,1,2,1,3,3,0,3,0,0,6,13,Mild Anxiety,Moderate depression
+3/9/2024 12:10:02,Unmarried,Undergraduate ,2,1,1,1,2,2,0,2,2,0,1,3,3,2,2,0,9,15,Mild Anxiety,Moderately severe depression
+3/9/2024 12:10:02,Unmarried,Undergraduate ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Minimal Anxiety,Minimal depression
+3/9/2024 12:11:20,Unmarried,Undergraduate ,1,1,2,1,1,1,1,1,1,2,2,2,1,2,1,0,8,12,Mild Anxiety,Moderate depression
+3/9/2024 12:11:22,Unmarried,Undergraduate ,1,1,1,1,1,1,1,2,1,0,1,2,1,1,1,0,7,9,Mild Anxiety,Mild depression
+3/9/2024 12:13:53,Married,Undergraduate ,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,3,2,Minimal Anxiety,Minimal depression
+3/9/2024 12:14:03,Unmarried,Undergraduate ,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Minimal Anxiety,Minimal depression
+3/9/2024 12:17:04,Married,Undergraduate ,1,0,1,1,0,1,1,1,0,2,1,0,0,0,0,0,5,4,Mild Anxiety,Minimal depression
+3/9/2024 12:17:14,Unmarried,Undergraduate ,3,2,1,1,1,2,2,3,3,3,2,2,2,2,2,0,12,19,Moderate Anxiety,Moderately severe depression
+3/9/2024 12:18:00,Unmarried,Undergraduate ,1,2,1,2,1,1,1,1,1,2,3,3,1,2,3,1,9,17,Mild Anxiety,Moderately severe depression
+3/9/2024 12:19:30,Married,Undergraduate ,3,2,3,2,2,3,3,2,2,2,2,1,2,2,2,2,18,17,Severe Anxiety,Moderately severe depression
+3/9/2024 12:19:53,Unmarried,Undergraduate ,1,1,2,1,0,1,1,3,2,0,3,2,2,2,0,0,7,14,Mild Anxiety,Moderate depression
+3/9/2024 12:20:59,Unmarried,Undergraduate ,2,1,2,2,2,3,2,2,1,2,2,2,1,3,2,0,14,15,Moderate Anxiety,Moderately severe depression
+3/9/2024 12:27:45,Unmarried,Undergraduate ,0,0,0,0,0,1,0,1,1,1,2,2,2,1,0,0,1,10,Minimal Anxiety,Moderate depression
+3/9/2024 12:33:00,Married,Undergraduate ,2,2,3,2,1,2,1,2,2,3,1,0,3,3,1,2,13,17,Moderate Anxiety,Moderately severe depression
+3/9/2024 12:34:33,Married,Undergraduate ,1,1,1,0,0,1,1,2,1,2,3,2,3,1,1,2,5,17,Mild Anxiety,Moderately severe depression
+3/9/2024 12:40:14,Married,Undergraduate ,2,1,1,2,1,2,1,3,3,2,2,2,1,1,3,3,10,20,Moderate Anxiety,Severe depression
+3/9/2024 12:40:41,Married,Undergraduate ,1,1,1,1,2,1,0,2,1,0,1,1,0,0,0,0,7,5,Mild Anxiety,Mild depression
+3/9/2024 12:41:06,Married,Undergraduate ,2,1,1,1,0,1,1,1,2,0,1,2,1,3,2,0,7,12,Mild Anxiety,Moderate depression
+3/9/2024 12:45:37,Unmarried,Undergraduate ,3,2,2,2,1,1,3,3,2,3,3,3,3,3,3,1,14,24,Moderate Anxiety,Severe depression
+3/9/2024 12:45:53,Unmarried,Undergraduate ,3,3,3,1,0,1,1,3,3,2,3,3,0,1,0,3,12,18,Moderate Anxiety,Moderately severe depression
+3/9/2024 12:49:20,Married,Undergraduate ,1,1,0,1,0,1,0,1,1,3,3,2,0,3,1,1,4,15,Minimal Anxiety,Moderately severe depression
+3/9/2024 12:51:05,Married,Undergraduate ,1,2,1,2,2,1,1,2,1,2,2,1,2,1,2,1,10,14,Moderate Anxiety,Moderate depression
+3/9/2024 12:53:22,Unmarried,Undergraduate ,2,2,1,2,1,0,1,3,2,2,3,2,2,2,3,2,9,21,Mild Anxiety,Severe depression
+3/9/2024 12:53:37,Unmarried,Undergraduate ,1,1,0,1,0,0,0,0,2,2,3,3,0,2,0,0,3,12,Minimal Anxiety,Moderate depression
+3/9/2024 12:55:56,Married,Undergraduate ,1,1,0,0,0,1,0,0,1,1,1,2,1,1,1,0,3,8,Minimal Anxiety,Mild depression
+3/9/2024 12:56:44,Unmarried,Undergraduate ,1,1,0,0,0,1,1,0,2,0,2,0,3,1,1,3,4,12,Minimal Anxiety,Moderate depression
+3/9/2024 12:57:04,Unmarried,Undergraduate ,1,1,0,1,0,0,1,3,2,0,3,2,2,2,3,3,4,20,Minimal Anxiety,Severe depression
+3/9/2024 12:59:05,Married,Undergraduate ,1,1,1,0,0,0,0,1,2,0,3,1,0,1,0,0,3,8,Minimal Anxiety,Mild depression
+3/9/2024 13:00:52,Married,Postgraduate,3,3,1,0,3,1,1,3,3,0,3,2,2,3,1,0,12,17,Moderate Anxiety,Moderately severe depression
+3/9/2024 13:00:55,Married,Undergraduate ,2,2,3,2,2,2,2,3,3,3,3,3,3,3,2,3,15,26,Severe Anxiety,Severe depression
+3/9/2024 13:02:40,Unmarried,Undergraduate ,3,2,2,2,1,3,2,3,2,3,3,2,3,2,2,1,15,21,Severe Anxiety,Severe depression
+3/9/2024 13:04:43,Unmarried,Undergraduate ,3,2,3,2,1,2,1,3,3,3,3,3,3,3,3,1,14,25,Moderate Anxiety,Severe depression
+3/9/2024 13:05:13,Married,Undergraduate ,3,2,3,2,1,2,2,3,3,3,3,2,3,3,2,1,15,23,Severe Anxiety,Severe depression
+3/9/2024 13:05:54,Unmarried,Undergraduate ,1,1,1,1,1,2,1,3,1,0,0,0,2,3,1,3,8,13,Mild Anxiety,Moderate depression
+3/9/2024 13:07:03,Unmarried,Undergraduate ,1,2,0,2,3,1,0,3,3,1,3,3,1,3,2,1,9,20,Mild Anxiety,Severe depression
+3/9/2024 13:08:14,Unmarried,Undergraduate ,1,1,2,1,1,1,2,0,0,3,3,3,0,1,0,0,9,10,Mild Anxiety,Moderate depression
+3/9/2024 13:09:00,Married,Undergraduate ,1,1,1,1,1,1,0,2,1,2,2,0,2,2,0,1,6,12,Mild Anxiety,Moderate depression
+3/9/2024 13:11:04,Unmarried,Undergraduate ,1,2,2,0,2,1,3,0,2,2,1,1,3,0,3,1,11,13,Moderate Anxiety,Moderate depression
+3/9/2024 13:11:59,Unmarried,Undergraduate ,2,3,2,2,0,1,2,2,3,3,1,1,0,2,2,0,12,14,Moderate Anxiety,Moderate depression
+3/9/2024 13:20:43,Unmarried,Undergraduate ,2,3,1,3,2,1,0,3,1,1,3,1,0,3,2,0,12,14,Moderate Anxiety,Moderate depression
+3/9/2024 13:21:22,Unmarried,Undergraduate ,2,2,2,1,2,2,1,2,2,2,2,3,1,3,2,3,12,20,Moderate Anxiety,Severe depression
+3/9/2024 13:25:08,Married,Undergraduate ,1,0,1,1,1,1,1,0,0,2,1,0,1,0,0,0,6,4,Mild Anxiety,Minimal depression
+3/9/2024 13:26:02,Unmarried,Undergraduate ,1,1,1,2,1,1,0,2,2,3,2,1,2,1,1,0,7,14,Mild Anxiety,Moderate depression
+3/9/2024 13:32:08,Married,Undergraduate ,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,4,1,Minimal Anxiety,Minimal depression
+3/9/2024 13:36:07,Married,Undergraduate ,1,1,1,1,0,1,0,1,1,1,2,0,2,1,0,0,5,8,Mild Anxiety,Mild depression
+3/9/2024 13:36:39,Married,Undergraduate ,2,1,1,2,2,3,3,2,3,3,3,2,0,3,3,0,14,19,Moderate Anxiety,Moderately severe depression
+3/9/2024 13:41:54,Unmarried,Undergraduate ,1,1,0,1,0,1,1,1,0,0,3,2,3,3,0,0,5,12,Mild Anxiety,Moderate depression
+3/9/2024 13:42:09,Unmarried,Undergraduate ,3,3,2,1,2,2,1,2,2,2,2,2,2,2,1,1,14,16,Moderate Anxiety,Moderately severe depression
+3/9/2024 13:44:20,Unmarried,Undergraduate ,3,2,3,3,2,3,1,3,3,3,0,2,0,3,0,0,17,14,Severe Anxiety,Moderate depression
+3/9/2024 13:46:04,Unmarried,Undergraduate ,1,1,1,1,0,1,0,1,2,0,0,0,2,3,0,0,5,8,Mild Anxiety,Mild depression
+3/9/2024 14:00:22,Unmarried,Undergraduate ,1,2,3,3,3,1,0,3,2,0,2,0,2,3,3,0,13,15,Moderate Anxiety,Moderately severe depression
+3/9/2024 14:00:49,Married,Undergraduate ,1,1,1,1,0,0,0,2,2,2,1,2,0,2,0,0,4,11,Minimal Anxiety,Moderate depression
+3/9/2024 14:05:13,Married,Undergraduate ,3,2,1,1,0,1,0,2,2,2,0,0,1,0,0,0,8,7,Mild Anxiety,Mild depression
+3/9/2024 14:06:03,Unmarried,Undergraduate ,1,2,3,2,1,1,2,3,2,3,2,3,3,2,2,1,12,21,Moderate Anxiety,Severe depression
+3/9/2024 14:15:16,Married,Undergraduate ,2,1,1,1,0,1,1,3,3,2,3,0,1,3,3,2,7,20,Mild Anxiety,Severe depression
+3/9/2024 14:16:08,Unmarried,Undergraduate ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,21,27,Severe Anxiety,Severe depression
+3/9/2024 14:17:17,Married,Undergraduate ,3,2,1,1,1,2,1,2,1,1,1,1,2,1,2,1,11,12,Moderate Anxiety,Moderate depression
+3/9/2024 14:38:20,Married,Undergraduate ,1,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,1,4,Minimal Anxiety,Minimal depression
+3/9/2024 14:39:22,Unmarried,Undergraduate ,2,1,2,1,1,2,1,1,1,2,2,0,1,2,0,1,10,10,Moderate Anxiety,Moderate depression
+3/9/2024 14:40:49,Married,Undergraduate ,3,3,1,3,1,1,1,3,3,2,3,2,3,3,2,2,13,23,Moderate Anxiety,Severe depression
+3/9/2024 14:41:26,Married,Undergraduate ,1,0,0,0,0,1,0,0,0,0,2,0,0,2,0,0,2,4,Minimal Anxiety,Minimal depression
+3/9/2024 14:42:11,Married,Undergraduate ,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,Minimal Anxiety,Minimal depression
+3/9/2024 14:42:48,Married,Undergraduate ,1,0,1,1,0,1,0,2,0,1,0,0,0,0,0,0,4,3,Minimal Anxiety,Minimal depression
+3/9/2024 14:44:34,Married,Undergraduate ,2,1,1,2,1,1,1,1,1,0,0,0,0,2,2,0,9,6,Mild Anxiety,Mild depression
+3/9/2024 14:45:16,Unmarried,Undergraduate ,1,1,1,2,0,3,0,2,1,1,3,3,2,1,1,1,8,15,Mild Anxiety,Moderately severe depression
+3/9/2024 14:46:31,Unmarried,Undergraduate ,2,2,1,2,2,2,1,3,2,1,2,1,2,3,3,0,12,17,Moderate Anxiety,Moderately severe depression
+3/9/2024 14:49:27,Married,Postgraduate,3,3,3,3,3,3,3,3,3,2,3,0,3,3,1,2,21,20,Severe Anxiety,Severe depression
+3/9/2024 14:50:15,Married,Postgraduate,2,3,2,3,1,1,1,2,3,1,3,0,1,3,3,2,13,18,Moderate Anxiety,Moderately severe depression
+3/9/2024 14:55:47,Unmarried,Undergraduate ,1,1,1,1,1,2,2,3,2,2,2,2,3,2,1,2,9,19,Mild Anxiety,Moderately severe depression
+3/9/2024 14:57:11,Unmarried,Undergraduate ,2,1,1,1,1,3,1,2,2,2,0,1,0,1,0,1,10,9,Moderate Anxiety,Mild depression
+3/9/2024 14:59:22,Unmarried,Undergraduate ,1,3,3,3,3,2,3,1,1,3,2,3,1,3,3,2,18,19,Severe Anxiety,Moderately severe depression
+3/9/2024 15:03:56,Unmarried,Undergraduate ,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Minimal Anxiety,Minimal depression
+3/9/2024 15:07:21,Unmarried,Undergraduate ,1,1,1,2,1,1,2,2,2,1,2,0,0,2,2,0,9,11,Mild Anxiety,Moderate depression
+3/9/2024 15:13:59,Unmarried,Undergraduate ,1,1,0,1,1,2,1,0,2,1,2,0,1,1,1,0,7,8,Mild Anxiety,Mild depression
+3/9/2024 15:15:46,Married,Undergraduate ,3,1,1,1,0,1,1,2,2,2,2,2,0,1,0,2,8,13,Mild Anxiety,Moderate depression
+3/9/2024 15:17:24,Married,Undergraduate ,1,0,0,0,1,0,0,1,1,0,0,0,0,2,0,0,2,4,Minimal Anxiety,Minimal depression
+3/9/2024 15:18:18,Married,Undergraduate ,1,3,1,3,1,3,1,1,1,1,2,1,0,1,1,0,13,8,Moderate Anxiety,Mild depression
+3/9/2024 15:19:34,Unmarried,Undergraduate ,1,0,0,1,0,1,0,2,0,1,1,0,2,2,1,0,3,9,Minimal Anxiety,Mild depression
+3/9/2024 15:22:49,Unmarried,Undergraduate ,2,2,0,1,1,1,1,1,2,3,2,2,2,3,2,0,8,17,Mild Anxiety,Moderately severe depression
+3/9/2024 15:23:35,Married,Undergraduate ,1,1,2,1,1,1,2,3,2,2,1,1,1,2,2,1,9,15,Mild Anxiety,Moderately severe depression
+3/9/2024 15:24:33,Married,Undergraduate ,2,1,1,1,1,2,0,1,3,3,3,3,2,2,2,3,8,22,Mild Anxiety,Severe depression
+3/9/2024 15:24:44,Unmarried,Undergraduate ,1,2,2,1,1,1,1,1,1,2,2,1,3,2,1,1,9,14,Mild Anxiety,Moderate depression
+3/9/2024 15:29:19,Unmarried,Undergraduate ,3,3,3,1,1,3,3,3,3,0,3,3,3,3,3,3,17,24,Severe Anxiety,Severe depression
+3/9/2024 15:35:23,Married,Undergraduate ,1,1,2,3,3,2,1,3,2,3,1,2,2,3,3,0,13,19,Moderate Anxiety,Moderately severe depression
+3/9/2024 15:37:50,Unmarried,Undergraduate ,1,1,0,1,1,1,0,0,0,2,2,0,1,1,1,0,5,7,Mild Anxiety,Mild depression
+3/9/2024 15:40:12,Unmarried,Postgraduate,1,3,1,0,1,3,1,1,2,2,3,2,3,3,1,3,10,20,Moderate Anxiety,Severe depression
+3/9/2024 15:40:27,Unmarried,Undergraduate ,0,0,0,0,0,1,0,1,0,0,2,0,0,1,0,0,1,4,Minimal Anxiety,Minimal depression
+3/9/2024 15:41:07,Unmarried,Undergraduate ,2,1,1,1,1,2,0,3,3,2,2,1,1,1,1,1,8,15,Mild Anxiety,Moderately severe depression
+3/9/2024 15:42:40,Married,Undergraduate ,1,1,2,1,0,3,1,2,1,0,2,1,0,2,0,0,9,8,Mild Anxiety,Mild depression
+3/9/2024 15:44:34,Unmarried,Undergraduate ,1,0,1,2,0,0,0,1,1,3,3,2,0,2,0,0,4,12,Minimal Anxiety,Moderate depression
+3/9/2024 15:45:17,Married,Undergraduate ,3,1,3,2,1,1,2,2,2,3,3,1,2,2,2,1,13,18,Moderate Anxiety,Moderately severe depression
+3/9/2024 15:48:30,Unmarried,Undergraduate ,1,2,1,2,1,2,2,1,1,3,1,0,0,3,1,0,11,10,Moderate Anxiety,Moderate depression
+3/9/2024 15:48:53,Married,Undergraduate ,1,1,1,1,0,1,1,2,2,2,2,3,1,2,2,1,6,17,Mild Anxiety,Moderately severe depression
+3/9/2024 15:55:43,Unmarried,Undergraduate ,2,1,2,1,1,3,0,2,1,1,0,0,1,1,2,0,10,8,Moderate Anxiety,Mild depression
+3/9/2024 15:58:21,Unmarried,Undergraduate ,2,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,6,0,Mild Anxiety,Minimal depression
+3/9/2024 16:01:00,Unmarried,Undergraduate ,1,1,1,1,0,1,1,1,1,1,2,1,2,1,1,1,6,11,Mild Anxiety,Moderate depression
+3/9/2024 16:04:30,Unmarried,Undergraduate ,1,1,1,1,0,1,1,3,1,1,1,0,1,1,1,0,6,9,Mild Anxiety,Mild depression
+3/9/2024 16:06:19,Unmarried,Undergraduate ,2,3,3,3,3,2,3,3,2,3,3,3,3,3,3,3,19,26,Severe Anxiety,Severe depression
+3/9/2024 16:08:46,Unmarried,Undergraduate ,3,2,2,3,1,1,1,2,2,0,3,3,3,3,2,0,13,18,Moderate Anxiety,Moderately severe depression
+3/9/2024 16:11:30,Married,Undergraduate ,1,1,1,1,1,1,0,2,1,1,2,1,1,2,2,0,6,12,Mild Anxiety,Moderate depression
+3/9/2024 16:17:36,Married,Undergraduate ,1,0,3,1,1,1,1,3,1,2,3,1,1,3,3,1,8,18,Mild Anxiety,Moderately severe depression
+3/9/2024 16:17:53,Married,Postgraduate,1,2,1,1,0,1,1,1,1,1,2,2,0,0,1,0,7,8,Mild Anxiety,Mild depression
+3/9/2024 16:19:38,Married,Undergraduate ,1,1,0,1,0,1,0,2,0,2,2,2,0,2,2,0,4,12,Minimal Anxiety,Moderate depression
+3/9/2024 16:19:42,Unmarried,Postgraduate,0,0,0,0,0,0,0,1,1,1,1,0,0,2,0,0,0,6,Minimal Anxiety,Mild depression
+3/9/2024 16:25:38,Married,Undergraduate ,2,1,0,1,1,1,0,0,1,1,1,1,1,1,0,0,6,6,Mild Anxiety,Mild depression
+3/9/2024 16:30:46,Unmarried,Postgraduate,3,3,2,2,2,3,2,3,2,1,2,1,2,3,1,1,17,16,Severe Anxiety,Moderately severe depression
+3/9/2024 16:34:41,Unmarried,Undergraduate ,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,2,5,5,Mild Anxiety,Mild depression
+3/9/2024 16:37:51,Married,Undergraduate ,1,1,0,1,0,1,0,2,1,0,1,0,1,0,0,0,4,5,Minimal Anxiety,Mild depression
+3/9/2024 16:38:27,Unmarried,Undergraduate ,2,1,2,2,1,0,1,1,2,3,2,3,2,2,2,2,9,19,Mild Anxiety,Moderately severe depression
+3/9/2024 16:41:25,Unmarried,Undergraduate ,1,1,0,1,0,1,0,1,0,1,1,0,0,1,0,0,4,4,Minimal Anxiety,Minimal depression
+3/9/2024 16:41:46,Unmarried,Undergraduate ,1,0,0,0,0,1,0,1,0,0,1,2,1,1,0,0,2,6,Minimal Anxiety,Mild depression
+3/9/2024 16:51:20,Unmarried,Undergraduate ,1,1,0,1,1,1,1,1,2,1,0,0,0,2,0,0,6,6,Mild Anxiety,Mild depression
+3/9/2024 16:54:44,Unmarried,Undergraduate ,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,Minimal Anxiety,Minimal depression
+3/9/2024 17:01:41,Married,Undergraduate ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,7,8,Mild Anxiety,Mild depression
+3/9/2024 17:07:24,Unmarried,Postgraduate,1,1,1,1,1,0,1,2,1,2,2,0,0,1,0,0,6,8,Mild Anxiety,Mild depression
+3/9/2024 17:12:57,Unmarried,Undergraduate ,2,2,1,2,1,1,2,2,2,3,3,1,3,2,1,0,11,17,Moderate Anxiety,Moderately severe depression
+3/9/2024 17:14:47,Unmarried,Postgraduate,1,0,0,0,0,1,1,1,1,1,2,1,0,1,0,0,3,7,Minimal Anxiety,Mild depression
+3/9/2024 17:17:22,Married,Undergraduate ,3,3,2,2,1,2,0,2,1,3,2,0,1,1,0,0,13,10,Moderate Anxiety,Moderate depression
+3/9/2024 17:21:16,Unmarried,Undergraduate ,3,2,1,1,2,1,1,2,2,3,3,2,1,3,1,1,11,18,Moderate Anxiety,Moderately severe depression
+3/9/2024 17:22:11,Unmarried,Undergraduate ,1,1,2,1,1,2,1,3,2,1,1,2,1,3,0,1,9,14,Mild Anxiety,Moderate depression
+3/9/2024 17:27:54,Unmarried,Undergraduate ,1,1,1,2,1,2,2,2,2,3,2,2,1,1,1,0,10,14,Moderate Anxiety,Moderate depression
+3/9/2024 17:28:07,Unmarried,Undergraduate ,1,2,3,3,1,2,1,3,2,3,3,2,1,2,1,1,13,18,Moderate Anxiety,Moderately severe depression
+3/9/2024 17:30:04,Unmarried,Undergraduate ,1,1,0,1,0,1,1,1,2,2,2,1,0,3,2,1,5,14,Mild Anxiety,Moderate depression
+3/9/2024 17:36:48,Unmarried,Undergraduate ,1,1,1,2,1,2,1,1,0,2,2,1,2,2,0,0,9,10,Mild Anxiety,Moderate depression
+3/9/2024 17:41:26,Unmarried,Undergraduate ,1,1,2,2,0,3,1,3,2,3,3,0,3,3,2,2,10,21,Moderate Anxiety,Severe depression
+3/9/2024 17:42:17,Married,Undergraduate ,3,1,2,1,1,2,2,3,2,2,2,2,2,3,3,2,12,21,Moderate Anxiety,Severe depression
+3/9/2024 17:46:38,Married,Undergraduate ,1,1,1,2,0,1,2,2,2,1,1,1,1,2,2,2,8,14,Mild Anxiety,Moderate depression
+3/9/2024 17:59:51,Unmarried,Undergraduate ,1,1,3,2,1,0,1,2,2,1,2,2,2,1,1,2,9,15,Mild Anxiety,Moderately severe depression
+3/9/2024 18:01:46,Unmarried,Undergraduate ,1,2,3,2,2,1,3,1,3,0,3,3,3,3,1,2,14,19,Moderate Anxiety,Moderately severe depression
+3/9/2024 18:29:09,Unmarried,Undergraduate ,3,3,3,3,3,3,3,3,3,2,3,0,3,3,3,3,21,23,Severe Anxiety,Severe depression
+3/9/2024 18:34:43,Married,Undergraduate ,2,2,1,2,1,2,1,3,2,3,2,1,2,1,2,1,11,17,Moderate Anxiety,Moderately severe depression
+3/9/2024 18:48:40,Unmarried,Undergraduate ,3,2,1,2,1,3,1,3,3,3,3,3,3,2,3,3,13,26,Moderate Anxiety,Severe depression
+3/9/2024 18:50:12,Unmarried,Undergraduate ,3,2,2,2,1,3,1,3,3,3,3,3,3,2,3,3,14,26,Moderate Anxiety,Severe depression
+3/9/2024 18:59:29,Married,Undergraduate ,1,1,1,3,1,1,1,3,2,3,3,2,1,1,0,0,9,15,Mild Anxiety,Moderately severe depression
+3/9/2024 19:05:01,Married,Undergraduate ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Minimal Anxiety,Minimal depression
+3/9/2024 19:10:24,Married,Undergraduate ,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,6,Minimal Anxiety,Mild depression
+3/9/2024 19:12:18,Unmarried,Undergraduate ,2,2,1,2,1,0,1,2,2,3,3,2,1,3,0,1,9,17,Mild Anxiety,Moderately severe depression
+3/9/2024 19:17:06,Unmarried,Undergraduate ,2,3,3,3,1,2,1,3,3,3,3,3,3,3,3,0,15,24,Severe Anxiety,Severe depression
+3/9/2024 19:30:11,Unmarried,Undergraduate ,1,1,1,2,1,1,1,3,2,2,2,2,2,2,1,2,8,18,Mild Anxiety,Moderately severe depression
+3/9/2024 19:30:36,Married,Undergraduate ,2,3,2,2,0,2,1,2,2,1,3,2,2,3,2,0,12,17,Moderate Anxiety,Moderately severe depression
+3/9/2024 19:32:48,Unmarried,Undergraduate ,1,0,1,0,1,0,1,1,1,0,3,1,2,2,2,2,4,14,Minimal Anxiety,Moderate depression
+3/9/2024 19:33:27,Married,Undergraduate ,0,0,0,1,0,1,0,1,0,0,3,0,0,1,1,0,2,6,Minimal Anxiety,Mild depression
+3/9/2024 19:47:33,Unmarried,Undergraduate ,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,2,20,26,Severe Anxiety,Severe depression
+3/9/2024 19:47:46,Unmarried,Undergraduate ,3,3,3,3,3,3,1,3,3,3,3,2,3,3,3,2,19,25,Severe Anxiety,Severe depression
+3/9/2024 19:58:39,Unmarried,Undergraduate ,1,1,2,2,2,2,1,2,2,1,3,2,2,3,3,2,11,20,Moderate Anxiety,Severe depression
+3/9/2024 20:18:19,Unmarried,Postgraduate,3,2,3,2,1,1,1,2,1,2,2,2,0,1,1,0,13,11,Moderate Anxiety,Moderate depression
+3/9/2024 20:38:50,Unmarried,Postgraduate,2,1,1,1,1,1,1,3,3,3,3,1,0,3,3,0,8,19,Mild Anxiety,Moderately severe depression
+3/9/2024 20:43:17,Unmarried,Undergraduate ,1,1,0,0,1,2,0,3,2,2,3,0,3,3,3,3,5,22,Mild Anxiety,Severe depression
+3/9/2024 20:47:39,Unmarried,Undergraduate ,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,3,Minimal Anxiety,Minimal depression
+3/9/2024 20:49:06,Married,Undergraduate ,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,3,1,Minimal Anxiety,Minimal depression
+3/9/2024 20:51:24,Unmarried,Postgraduate,1,1,1,1,1,1,0,2,2,2,2,3,0,2,0,0,6,13,Mild Anxiety,Moderate depression
+3/9/2024 20:58:16,Unmarried,Undergraduate ,1,2,1,2,1,3,0,2,2,2,2,3,2,2,1,1,10,17,Moderate Anxiety,Moderately severe depression
+3/9/2024 21:24:51,Unmarried,Undergraduate ,1,1,1,1,1,0,0,1,0,0,1,0,2,1,0,1,5,6,Mild Anxiety,Mild depression
+3/9/2024 21:26:11,Unmarried,Undergraduate ,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,3,3,Minimal Anxiety,Minimal depression
+3/9/2024 21:32:16,Married,Postgraduate,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,8,10,Mild Anxiety,Moderate depression
+3/9/2024 21:33:08,Married,Undergraduate ,1,0,1,1,1,1,0,1,1,2,1,1,1,2,1,0,5,10,Mild Anxiety,Moderate depression
+3/9/2024 21:41:44,Unmarried,Undergraduate ,1,0,1,1,0,0,0,1,2,2,2,2,0,2,2,0,3,13,Minimal Anxiety,Moderate depression
+3/9/2024 21:46:08,Unmarried,Undergraduate ,1,2,2,2,1,1,1,2,3,2,2,2,3,2,2,2,10,20,Moderate Anxiety,Severe depression
+3/9/2024 21:50:26,Married,Undergraduate ,1,1,2,2,1,1,0,1,1,0,3,3,1,3,1,0,8,13,Mild Anxiety,Moderate depression
+3/9/2024 22:01:27,Unmarried,Undergraduate ,1,2,1,1,0,1,1,3,2,2,3,0,2,3,1,2,7,18,Mild Anxiety,Moderately severe depression
+3/9/2024 22:22:08,Married,Undergraduate ,3,3,2,2,2,2,3,3,3,3,3,3,3,2,2,3,17,25,Severe Anxiety,Severe depression
+3/9/2024 22:28:11,Married,Undergraduate ,3,3,3,2,2,2,3,3,3,2,3,3,3,3,3,1,18,24,Severe Anxiety,Severe depression
+3/9/2024 23:11:42,Unmarried,Postgraduate,2,2,2,2,1,2,1,3,2,0,2,3,3,3,2,3,12,21,Moderate Anxiety,Severe depression
+3/9/2024 23:14:30,Unmarried,Postgraduate,1,2,1,1,1,1,1,2,1,1,3,0,0,2,1,0,8,10,Mild Anxiety,Moderate depression
+3/9/2024 23:31:59,Married,Undergraduate ,2,1,2,2,2,2,2,2,2,2,2,2,1,2,1,1,13,15,Moderate Anxiety,Moderately severe depression
+3/9/2024 23:36:57,Unmarried,Undergraduate ,1,2,1,1,0,0,0,2,1,0,3,1,0,3,0,0,5,10,Mild Anxiety,Moderate depression
+3/9/2024 23:44:12,Unmarried,Undergraduate ,1,1,2,2,0,3,1,2,3,2,2,3,2,1,0,1,10,16,Moderate Anxiety,Moderately severe depression
+3/9/2024 23:50:24,Unmarried,Undergraduate ,2,2,3,1,2,1,1,2,1,2,3,3,1,3,2,1,12,18,Moderate Anxiety,Moderately severe depression
+3/9/2024 23:52:00,Unmarried,Undergraduate ,3,2,2,1,0,1,1,1,1,0,0,0,3,3,2,1,10,11,Moderate Anxiety,Moderate depression
+3/10/2024 0:18:36,Unmarried,Undergraduate ,1,0,1,1,0,1,0,1,1,2,1,0,0,0,0,0,4,5,Minimal Anxiety,Mild depression
+3/10/2024 0:32:42,Unmarried,Undergraduate ,3,2,2,2,2,2,1,1,1,3,3,2,2,3,3,0,14,18,Moderate Anxiety,Moderately severe depression
+3/10/2024 0:33:56,Married,Postgraduate,1,1,0,0,0,1,0,0,0,2,1,2,0,1,0,0,3,6,Minimal Anxiety,Mild depression
+3/10/2024 0:38:20,Unmarried,Undergraduate ,2,2,2,2,2,1,1,1,1,0,1,0,1,3,3,3,12,13,Moderate Anxiety,Moderate depression
+3/10/2024 0:55:46,Married,Undergraduate ,3,1,1,1,0,3,1,2,2,2,3,3,1,2,2,1,10,18,Moderate Anxiety,Moderately severe depression
+3/10/2024 1:21:08,Unmarried,Undergraduate ,2,2,2,2,1,3,2,0,1,1,1,0,0,2,1,1,14,7,Moderate Anxiety,Mild depression
+3/10/2024 1:40:35,Unmarried,Undergraduate ,1,0,0,1,1,1,0,1,0,0,2,2,0,3,0,0,4,8,Minimal Anxiety,Mild depression
+3/10/2024 3:56:02,Unmarried,Undergraduate ,1,1,0,0,1,0,0,3,0,0,1,2,0,1,0,0,3,7,Minimal Anxiety,Mild depression
+3/10/2024 3:58:46,Unmarried,Undergraduate ,1,1,1,1,1,1,1,2,3,2,2,1,2,2,2,3,7,19,Mild Anxiety,Moderately severe depression
+3/10/2024 4:46:13,Married,Undergraduate ,1,1,0,1,0,1,0,0,1,1,1,1,0,1,0,0,4,5,Minimal Anxiety,Mild depression
+3/10/2024 6:52:04,Unmarried,Undergraduate ,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,2,Minimal Anxiety,Minimal depression
+3/10/2024 9:14:04,Married,Undergraduate ,1,1,1,2,0,1,1,1,1,3,1,0,0,1,0,0,7,7,Mild Anxiety,Mild depression
+3/10/2024 9:24:05,Married,Undergraduate ,3,2,2,2,1,1,1,3,2,3,1,1,1,3,2,0,12,16,Moderate Anxiety,Moderately severe depression
+3/10/2024 10:28:06,Married,Undergraduate ,1,1,1,1,1,1,0,0,0,1,2,0,0,1,0,0,6,4,Mild Anxiety,Minimal depression
+3/10/2024 10:57:26,Married,Undergraduate ,2,3,2,2,1,1,1,1,2,2,3,2,1,2,1,0,12,14,Moderate Anxiety,Moderate depression
+3/10/2024 11:56:36,Married,Undergraduate ,2,1,1,1,1,3,1,0,0,2,2,3,1,0,0,0,10,8,Moderate Anxiety,Mild depression
+3/10/2024 12:10:14,Married,Undergraduate ,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,2,1,Minimal Anxiety,Minimal depression
+3/10/2024 12:16:50,Married,Undergraduate ,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,7,5,Mild Anxiety,Mild depression
+3/10/2024 12:26:01,Married,Undergraduate ,1,1,3,1,0,1,1,3,2,2,2,0,0,2,0,0,8,11,Mild Anxiety,Moderate depression
+3/10/2024 12:39:13,Unmarried,Undergraduate ,1,1,1,1,1,1,1,2,2,2,3,1,1,3,2,1,7,17,Mild Anxiety,Moderately severe depression
+3/10/2024 13:33:28,Unmarried,Undergraduate ,2,1,1,1,0,1,0,2,1,3,3,3,3,2,1,0,6,18,Mild Anxiety,Moderately severe depression
+3/10/2024 17:22:48,Unmarried,Undergraduate ,1,0,0,1,0,1,0,2,0,2,2,0,0,1,0,0,3,7,Minimal Anxiety,Mild depression
+4/9/2024 17:29:24,Unmarried,Undergraduate ,3,2,2,2,2,3,0,1,1,0,3,0,0,3,2,1,14,11,Moderate Anxiety,Moderate depression
